@@ -7,7 +7,6 @@
 </div>
  
  # Linguagens que utilizo
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,26 +15,24 @@
 </div><br>
   
  # Ferramentas
-  
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
    <img align="center" alt="Joao-Postman" height="50" width="50" src="postman.svg">
    <img align="center" alt="Joao-GCP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
    <img align="center" alt="Joao-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <img align="center" alt="Joao-Confluence" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg">
+   <img align="center" alt="Joao-Postman" height="50" width="50" src="swagger.png">
  </div><br>
  
   
 # Contatos
-  
 <div>
   <a href = "mailto:joaopaulobt@outlook.com" target="_blank"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/joao-paulo-ribeiro-da-silva-7531221ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div><br><br><br>
+</div><br><br>
   
-
   
 # Visitantes
-<p align="rigth"><img alingn="center" src="https://profile-counter.glitch.me/GitJoaoPaulo/count.svg" /></p><br><br>
+<p align="rigth"><img alingn="center" src="https://profile-counter.glitch.me/GitJoaoPaulo/count.svg" /></p><br>
   
 
 # Commits
