@@ -6,12 +6,20 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitJoaoPaulo&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+ # Linguagens que utilizo
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-GO" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-</div>
+</div><br>
+  
+ # Ferramentas
+  
+ <div style="display: inline_block"><br>
+   
+ </div><br>
   
   
 # Contatos
@@ -19,13 +27,14 @@
 <div>
   <a href = "mailto:joaopaulobt@outlook.com" target="_blank"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/joao-paulo-ribeiro-da-silva-7531221ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-  
-##
-  
-<p align="left">Visitantes</p>
-<p align="rigth"><img alingn="center" src="https://profile-counter.glitch.me/GitJoaoPaulo/count.svg" /></p>
+</div><br><br><br>
   
 
+  
+# Visitantes
+<p align="rigth"><img alingn="center" src="https://profile-counter.glitch.me/GitJoaoPaulo/count.svg" /></p><br><br>
+  
+
+# Commits
 ![Snake animation](https://github.com/GitJoaoPaulo/GitJoaoPaulo/blob/output/github-contribution-grid-snake.svg)
    
