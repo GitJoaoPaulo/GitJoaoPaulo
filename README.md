@@ -1,11 +1,12 @@
-
-# Olá! Eu sou João Paulo 👋
-
-<div align="center">
+  # Olá! Eu sou João Paulo 👋
+  
+<div align="left">
   <a href="https://github.com/GitJoaopaulo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GitJoaoPaulo&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitJoaoPaulo&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,7 +37,12 @@
     <img align="center" alt="Joao-Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
  </div></br>
  
-  
+ 
+<div align="right">
+  <abbr align="center" ><img id="portfolio" src="Prototyping process-bro.svg" width="250px" height="250px" ></abbr>
+</div>
+
+
 ## Contatos
 <div>
   <a href = "mailto:joaopaulobt@outlook.com" target="_blank"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
